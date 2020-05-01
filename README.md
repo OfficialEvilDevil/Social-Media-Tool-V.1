@@ -1,6 +1,16 @@
 # Social-Media-Tool-V.1
 Best Social Media Account phishing Web page.
 
+## This Tool Supported :
+<ul>
+  <li>Kali Linux</li>
+  <li>Termux</li>
+  <li>Windows</li>
+  <li>Kali Nethunter</li>
+  <li>Android Mobile</li>
+  <li>Hosting Servers</li>
+</ul>
+
 
 **〓〓〓 Follow on Webside 〓〓〓**
 
