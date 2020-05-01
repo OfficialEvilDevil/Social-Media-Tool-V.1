@@ -38,7 +38,7 @@ exit;
 
 
   <meta name="viewport" content="width=device-width">
-  
+ 
   <title>Sign in to GitHub · GitHub</title>
     <meta name="description" content="GitHub is where people build software. More than 40 million people use GitHub to discover, fork, and contribute to over 100 million projects.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
